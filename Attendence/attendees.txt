@@ -1,0 +1,3 @@
+John,MGA,GA,john@mga.edu
+Doe,MGA,GA,doe@mga.edu
+Smith,MGA,GA,smith@mga.edu
